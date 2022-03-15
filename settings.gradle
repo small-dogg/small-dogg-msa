@@ -1,0 +1,4 @@
+rootProject.name = 'small-dogg-msa'
+
+include 'gateway'
+include 'discovery'
